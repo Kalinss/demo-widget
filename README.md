@@ -29,7 +29,7 @@
     <script>
         new window.myReviews.VerticalWidget({
             id: 323, // id вашей коммпании на сервисе
-            name: "badgeWidget-1" // уникальное название среди остальных виджетов
+            name: "verticalWidget-1" // уникальное название среди остальных виджетов
         }).init()
     </script>
 </body>
