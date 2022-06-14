@@ -527,6 +527,7 @@ fieldset[disabled] .btn-theme {
     padding-left: 15px;
     margin-right: 0;
     margin-left: 0;
+    background-color: #f8f5f5 !important;
   }
   .header .navbar > .container {
     width: auto;
